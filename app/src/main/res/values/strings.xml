@@ -1,0 +1,303 @@
+<resources>
+    <string name="app_name">夜市Easy pay</string>
+    ----------------------------------------------------------
+    <string-array name="food">
+        <item>老三滷味</item>
+        <item>春捲冰淇淋</item>
+        <item>阿餐麻糬</item>
+        <item>澎湖蚵仔煎</item>
+        <item>蘭嶼烤小卷</item>
+        <item>田在新飲料</item>
+        <item>朝豐捲餅</item>
+        <item>印度魚蛋</item>
+        <item>七哥麻辣燙</item>
+        <item>黑橋香腸</item>
+        <item>響饕小吃</item>
+    </string-array>
+
+    <string-array name="play">
+        <item>小東搓麻將</item>
+        <item>窄南公仔</item>
+        <item>狙擊手射氣球</item>
+        <item>也似撈金魚</item>
+        <item>好棒打擊場</item>
+        <item>神射手投籃</item>
+        <item>童玩積木</item>
+    </string-array>
+
+    <string-array name="cloth">
+        <item>好穿服飾店</item>
+        <item>好買服飾店</item>
+        <item>來來服飾店</item>
+        <item>來買服飾店</item>
+        <item>熊讚服飾店</item>
+        <item>一級棒服飾店</item>
+        <item>超讚服飾店</item>
+        <item>超好服飾店</item>
+    </string-array>
+
+    <string-array name="CCC">
+        <item>阿坤3C</item>
+        <item>阿燦3C</item>
+        <item>阿明3C</item>
+        <item>阿國3C</item>
+        <item>小美3C</item>
+        <item>阿興3C</item>
+        <item>阿隆3C</item>
+        <item>小乖3C</item>
+        <item>阿皓3C</item>
+    </string-array>
+    -----------------------------------------------------------
+    <string-array name="food_braised">
+        <item>米血(10元)</item>
+        <item>雞翅(25元)</item>
+        <item>百頁豆腐(20元)</item>
+        <item>鳥蛋(5元)</item>
+        <item>豆干(5元)</item>
+    </string-array>
+
+    <string-array name="food_iceCream">
+        <item>草莓冰淇淋(50元)</item>
+        <item>香草冰淇淋(50元)</item>
+        <item>花生冰淇淋(50元)</item>
+        <item>巧克力冰淇淋(50元)</item>
+        <item>梅子冰淇淋(50元)</item>
+    </string-array>
+
+    <string-array name="food_mochi">
+        <item>紅豆麻糬(10元)</item>
+        <item>花生麻糬(10元)</item>
+        <item>奶酥麻糬(10元)</item>
+        <item>綠豆麻糬(10元)</item>
+        <item>黑糖麻糬(10元)</item>
+    </string-array>
+
+    <string-array name="food_drink">
+        <item>紅茶(20元)</item>
+        <item>綠茶(20元)</item>
+        <item>百香綠(35元)</item>
+        <item>奶綠(40元)</item>
+        <item>奶茶(40元)</item>
+    </string-array>
+
+    <string-array name="food_burrito">
+        <item>豬肉捲餅(40元)</item>
+        <item>牛肉捲餅(50元)</item>
+        <item>雞肉捲餅(40元)</item>
+        <item>鴨肉捲餅(45元)</item>
+    </string-array>
+
+    <string-array name="food_fish_eggs">
+        <item>咖哩(35元)</item>
+        <item>原味(35元)</item>
+        <item>辣味(35元)</item>
+    </string-array>
+
+    <string-array name="food_mala_tang">
+        <item>麻辣鴨血(50元)</item>
+        <item>麻辣豬血(50元)</item>
+        <item>麻辣綜合(60元)</item>
+    </string-array>
+
+    <string-array name="food_sausage">
+        <item>香腸(25元)</item>
+        <item>大腸(25元)</item>
+        <item>大腸包小腸(50元)</item>
+    </string-array>
+
+    <string-array name="food_snack">
+        <item>炒麵(25元)</item>
+        <item>炒米粉(25元)</item>
+        <item>豬血湯(35元)</item>
+        <item>肉燥飯(25元)</item>
+    </string-array>
+
+    <string-array name="food_oyster">
+        <item>蝦仁煎(65元)</item>
+        <item>蚵仔煎(65元)</item>
+        <item>綜合煎(75元)</item>
+    </string-array>
+
+    <string-array name="food_seafood">
+        <item>大(150元)</item>
+        <item>中(100元)</item>
+        <item>小(50元)</item>
+    </string-array>
+    ----------------------------------------------------------
+    <string-array name="play_mahjong">
+        <item>搓麻將遊戲(1局50元 3局120元)</item>
+    </string-array>
+
+    <string-array name="play_doll">
+        <item>火影忍者(149元)</item>
+        <item>航海王(149元)</item>
+        <item>迪士尼(149元)</item>
+        <item>鋼彈(149元)</item>
+    </string-array>
+
+    <string-array name="play_balloon">
+        <item>射氣球遊戲(1局50元 3局120元)</item>
+    </string-array>
+
+    <string-array name="play_fish">
+        <item>撈金魚遊戲(1局50元 3局120元)</item>
+    </string-array>
+
+    <string-array name="play_baseball">
+        <item>打棒球遊戲(60元)</item>
+    </string-array>
+
+    <string-array name="play_basketball">
+        <item>投籃球遊戲(1局50元 3局120元)</item>
+    </string-array>
+
+    <string-array name="play_block">
+        <item>星際大戰(200元)</item>
+        <item>科技系列(200元)</item>
+        <item>城市系列(200元)</item>
+        <item>交通系列(200元)</item>
+    </string-array>
+    ----------------------------------------------------------
+    <string-array name="cloth_one">
+        <item>V領毛衣(250元)</item>
+        <item>九分袖T恤(150元)</item>
+        <item>連帽外套(500元)</item>
+        <item>毛絨長褲(500元)</item>
+        <item>MA-1飛行外套(1000元)</item>
+    </string-array>
+
+    <string-array name="cloth_two">
+        <item>束口褲(200元)</item>
+        <item>格紋襯衫(250元)</item>
+        <item>長襪(49元)</item>
+        <item>牛仔褲(500元)</item>
+    </string-array>
+
+    <string-array name="cloth_three">
+        <item>長袖T恤(200元)</item>
+        <item>短袖T恤(100元)</item>
+        <item>短襪(50元)</item>
+        <item>棒球外套(550元)</item>
+        <item>皮帶(100元)</item>
+    </string-array>
+
+    <string-array name="cloth_four">
+        <item>縮口褲(500元)</item>
+        <item>素面襯衫(200元)</item>
+        <item>長襪(49元)</item>
+        <item>連帽外套(500元)</item>
+        <item>牛仔褲(500元)</item>
+    </string-array>
+
+    <string-array name="cloth_five">
+        <item>MA-1飛行外套(1000元)</item>
+        <item>短袖T恤(100元)</item>
+        <item>POLO衫(250元)</item>
+        <item>休閒長褲(300元)</item>
+    </string-array>
+
+    <string-array name="cloth_six">
+        <item>皮帶(100元)</item>
+        <item>針織圍巾(200元)</item>
+        <item>羽絨外套(2000元)</item>
+        <item>牛仔襯衫(500元)</item>
+        <item>工作褲(350元)</item>
+    </string-array>
+
+    <string-array name="cloth_seven">
+        <item>短襪(50元)</item>
+        <item>牛仔褲(500元)</item>
+        <item>短袖T恤(100元)</item>
+        <item>皮帶(100元)</item>
+        <item>九分袖T恤(150元)</item>
+    </string-array>
+
+    <string-array name="cloth_eight">
+        <item>長袖T恤(200元)</item>
+        <item>格紋襯衫(250元)</item>
+        <item>棒球外套(550元)</item>
+        <item>牛仔褲(500元)</item>
+    </string-array>
+    ----------------------------------------------------------
+    <string-array name="CCC_one">
+        <item>Iphone6保護貼(250元)</item>
+        <item>Note8保護貼(200元)</item>
+        <item>Apple充電線(500元)</item>
+        <item>行動電源(500元)</item>
+    </string-array>
+
+    <string-array name="CCC_two">
+        <item>Iphone8保護貼(300元)</item>
+        <item>耳罩式耳機(1500元)</item>
+        <item>行動電源(500元)</item>
+        <item>耳機音源轉接線(350元)</item>
+        <item>IphoneXR保護貼(450元)</item>
+    </string-array>
+
+    <string-array name="CCC_three">
+        <item>行動電源(500元)</item>
+        <item>airpods犀牛盾(3000元)</item>
+        <item>Iphone7犀牛盾(2000元)</item>
+        <item>IphoneXS保護殼(1500元)</item>
+        <item>手機架(500元)</item>
+    </string-array>
+
+    <string-array name="CCC_four">
+        <item>Apple充電線(500元)</item>
+        <item>三星S9+保護殼(650元)</item>
+        <item>充電線保護套(50元)</item>
+        <item>耳機音源轉接線(350元)</item>
+    </string-array>
+
+    <string-array name="CCC_five">
+        <item>行動電源(500元)</item>
+        <item>藍芽耳機(950元)</item>
+        <item>三星S8犀牛盾(1500元)</item>
+        <item>手機架(500元)</item>
+        <item>airpods(3100元)</item>
+    </string-array>
+
+    <string-array name="CCC_six">
+        <item>Switch保護殼(1500元)</item>
+        <item>IphoneXS max保護殼(1299元)</item>
+        <item>Apple充電線(500元)</item>
+        <item>Iphone8保護貼(300元)</item>
+    </string-array>
+
+    <string-array name="CCC_seven">
+        <item>行動電源(500元)</item>
+        <item>耳罩式耳機(1500元)</item>
+        <item>手機架(500元)</item>
+        <item>藍芽喇叭(2999元)</item>
+        <item>充電手機殼(1000元)</item>
+    </string-array>
+
+    <string-array name="CCC_eight">
+        <item>Iphone7保護殼(350元)</item>
+        <item>IphoneX 犀牛盾(1999元)</item>
+        <item>airpods(3100元)</item>
+        <item>充電線保護套(50元)</item>
+    </string-array>
+
+    <string-array name="CCC_nine">
+        <item>行動電源(500元)</item>
+        <item>apple充電線(399元)</item>
+        <item>藍芽喇叭(2999元)</item>
+        <item>藍芽耳機(950元)</item>
+        <item>手機架(500元)</item>
+    </string-array>
+    ----------------------------------------------------------
+    <string-array name="amount">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+</resources>
